@@ -1,0 +1,1124 @@
+[
+    {
+        "title": "The Godfather",
+        "url": "https://www.imdb.com/title/tt0068646/",
+        "date_created": "2006-07-09",
+        "year_released": "1972-08-24",
+        "genre": [
+            "Crime",
+            "Drama"
+        ],
+        "actors": [
+            "Marlon Brando",
+            "Al Pacino",
+            "James Caan"
+        ],
+        "directors": [
+            "Francis Ford Coppola"
+        ],
+        "creators": [
+            "Mario Puzo",
+            "Francis Ford Coppola"
+        ]
+    },
+    {
+        "title": "Finding Nemo",
+        "url": "https://www.imdb.com/title/tt0266543/",
+        "date_created": "2003-12-10",
+        "year_released": "2003-10-10",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "actors": [
+            "Albert Brooks",
+            "Ellen DeGeneres",
+            "Alexander Gould"
+        ],
+        "directors": [
+            "Andrew Stanton",
+            "Lee Unkrich"
+        ],
+        "creators": [
+            "Andrew Stanton",
+            "Bob Peterson",
+            "David Reynolds"
+        ]
+    },
+    {
+        "title": "Back to the Future",
+        "url": "https://www.imdb.com/title/tt0088763/",
+        "date_created": "2001-02-08",
+        "year_released": "1985-12-04",
+        "genre": [
+            "Adventure",
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "actors": [
+            "Michael J. Fox",
+            "Christopher Lloyd",
+            "Lea Thompson"
+        ],
+        "directors": [
+            "Robert Zemeckis"
+        ],
+        "creators": [
+            "Robert Zemeckis",
+            "Bob Gale"
+        ]
+    },
+    {
+        "title": "Terminator 2: Judgment Day",
+        "url": "https://www.imdb.com/title/tt0103064/",
+        "date_created": "2018-01-06",
+        "year_released": "1991-08-16",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "actors": [
+            "Arnold Schwarzenegger",
+            "Linda Hamilton",
+            "Edward Furlong"
+        ],
+        "directors": [
+            "James Cameron"
+        ],
+        "creators": [
+            "James Cameron",
+            "William Wisher"
+        ]
+    },
+    {
+        "title": "Jurassic Park",
+        "url": "https://www.imdb.com/title/tt0107290/",
+        "date_created": "2001-07-06",
+        "year_released": "1993-07-16",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "actors": [
+            "Sam Neill",
+            "Laura Dern",
+            "Jeff Goldblum"
+        ],
+        "directors": [
+            "Steven Spielberg"
+        ],
+        "creators": [
+            "Michael Crichton",
+            "David Koepp"
+        ]
+    },
+    {
+        "title": "Kill Bill: Vol. 1",
+        "url": "https://www.imdb.com/title/tt0266697/",
+        "date_created": "2022-10-13",
+        "year_released": "2003-10-17",
+        "genre": [
+            "Action",
+            "Crime",
+            "Thriller"
+        ],
+        "actors": [
+            "Uma Thurman",
+            "David Carradine",
+            "Daryl Hannah"
+        ],
+        "directors": [
+            "Quentin Tarantino"
+        ],
+        "creators": [
+            "Quentin Tarantino",
+            "Uma Thurman"
+        ]
+    },
+    {
+        "title": "Gran Torino",
+        "url": "https://www.imdb.com/title/tt1205489/",
+        "date_created": "2019-03-13",
+        "year_released": "2009-02-27",
+        "genre": [
+            "Drama"
+        ],
+        "actors": [
+            "Clint Eastwood",
+            "Bee Vang",
+            "Christopher Carley"
+        ],
+        "directors": [
+            "Clint Eastwood"
+        ],
+        "creators": [
+            "Nick Schenk",
+            "Dave Johannson"
+        ]
+    },
+    {
+        "title": "The Green Mile",
+        "url": "https://www.imdb.com/title/tt0120689/",
+        "date_created": "2020-05-05",
+        "year_released": "2000-03-03",
+        "genre": [
+            "Crime",
+            "Drama",
+            "Fantasy"
+        ],
+        "actors": [
+            "Tom Hanks",
+            "Michael Clarke Duncan",
+            "David Morse"
+        ],
+        "directors": [
+            "Frank Darabont"
+        ],
+        "creators": [
+            "Stephen King",
+            "Frank Darabont"
+        ]
+    },
+    {
+        "title": "Léon",
+        "url": "https://www.imdb.com/title/tt0110413/",
+        "date_created": "2008-02-18",
+        "year_released": "1995-02-03",
+        "genre": [
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "actors": [
+            "Jean Reno",
+            "Gary Oldman",
+            "Natalie Portman"
+        ],
+        "directors": [
+            "Luc Besson"
+        ],
+        "creators": [
+            "Luc Besson"
+        ]
+    },
+    {
+        "title": "El secreto de sus ojos",
+        "url": "https://www.imdb.com/title/tt1305806/",
+        "date_created": "2009-12-04",
+        "year_released": "2010-08-13",
+        "genre": [
+            "Drama",
+            "Mystery",
+            "Romance"
+        ],
+        "actors": [
+            "Ricardo Darín",
+            "Soledad Villamil",
+            "Pablo Rago"
+        ],
+        "directors": [
+            "Juan José Campanella"
+        ],
+        "creators": [
+            "Eduardo Sacheri",
+            "Juan José Campanella"
+        ]
+    },
+    {
+        "title": "The Exorcist",
+        "url": "https://www.imdb.com/title/tt0070047/",
+        "date_created": "2018-08-06",
+        "year_released": "1974-09-22",
+        "genre": [
+            "Horror"
+        ],
+        "actors": [
+            "Ellen Burstyn",
+            "Max von Sydow",
+            "Linda Blair"
+        ],
+        "directors": [
+            "William Friedkin"
+        ],
+        "creators": [
+            "William Peter Blatty"
+        ]
+    },
+    {
+        "title": "Ben-Hur",
+        "url": "https://www.imdb.com/title/tt0052618/",
+        "date_created": "2015-11-15",
+        "year_released": "1960-03-27",
+        "genre": [
+            "Adventure",
+            "Drama"
+        ],
+        "actors": [
+            "Charlton Heston",
+            "Jack Hawkins",
+            "Stephen Boyd"
+        ],
+        "directors": [
+            "William Wyler"
+        ],
+        "creators": [
+            "Lew Wallace",
+            "Karl Tunberg",
+            "Gore Vidal"
+        ]
+    },
+    {
+        "title": "The Bridge on the River Kwai",
+        "url": "https://www.imdb.com/title/tt0050212/",
+        "date_created": "1999-12-10",
+        "year_released": "1957-10-11",
+        "genre": [
+            "Adventure",
+            "Drama",
+            "War"
+        ],
+        "actors": [
+            "William Holden",
+            "Alec Guinness",
+            "Jack Hawkins"
+        ],
+        "directors": [
+            "David Lean"
+        ],
+        "creators": [
+            "Pierre Boulle",
+            "Carl Foreman",
+            "Michael Wilson"
+        ]
+    },
+    {
+        "title": "Saving Private Ryan",
+        "url": "https://www.imdb.com/title/tt0120815/",
+        "date_created": "2000-05-17",
+        "year_released": "1998-09-11",
+        "genre": [
+            "Drama",
+            "War"
+        ],
+        "actors": [
+            "Tom Hanks",
+            "Matt Damon",
+            "Tom Sizemore"
+        ],
+        "directors": [
+            "Steven Spielberg"
+        ],
+        "creators": [
+            "Robert Rodat"
+        ]
+    },
+    {
+        "title": "Wo de fu qin mu qin",
+        "url": "https://www.imdb.com/title/tt0235060/",
+        "date_created": "2002-05-17",
+        "year_released": "1999-10-16",
+        "genre": [
+            "Drama",
+            "Romance"
+        ],
+        "actors": [
+            "Ziyi Zhang",
+            "Honglei Sun",
+            "Hao Zheng"
+        ],
+        "directors": [
+            "Yimou Zhang"
+        ],
+        "creators": [
+            "Shi Bao"
+        ]
+    },
+    {
+        "title": "Okuribito",
+        "url": "https://www.imdb.com/title/tt1069238/",
+        "date_created": "2009-03-19",
+        "year_released": "2009-12-04",
+        "genre": [
+            "Drama"
+        ],
+        "actors": [
+            "Masahiro Motoki",
+            "Ryôko Hirosue",
+            "Tsutomu Yamazaki"
+        ],
+        "directors": [
+            "Yôjirô Takita"
+        ],
+        "creators": [
+            "Kundô Koyama"
+        ]
+    },
+    {
+        "title": "Nae meorisokui jiwoogae",
+        "url": "https://www.imdb.com/title/tt0428870/",
+        "date_created": "2010-01-22",
+        "year_released": "2004-11-05",
+        "genre": [
+            "Drama",
+            "Romance"
+        ],
+        "actors": [
+            "Jung Woo-sung",
+            "Son Ye-jin",
+            "Baek Jong-hak"
+        ],
+        "directors": [
+            "Park Kyung-Jin",
+            "John H. Lee",
+            "Kim Tae-won"
+        ],
+        "creators": [
+            "John H. Lee",
+            "Choung Sangyong",
+            "Kim Young-ha"
+        ]
+    },
+    {
+        "title": "The Sixth Sense",
+        "url": "https://www.imdb.com/title/tt0167404/",
+        "date_created": "2000-02-14",
+        "year_released": "1999-11-05",
+        "genre": [
+            "Drama",
+            "Mystery",
+            "Thriller"
+        ],
+        "actors": [
+            "Bruce Willis",
+            "Haley Joel Osment",
+            "Toni Collette"
+        ],
+        "directors": [
+            "M. Night Shyamalan"
+        ],
+        "creators": [
+            "M. Night Shyamalan"
+        ]
+    },
+    {
+        "title": "Jodaeiye Nader az Simin",
+        "url": "https://www.imdb.com/title/tt1832382/",
+        "date_created": "2011-03-24",
+        "year_released": "2011-03-16",
+        "genre": [
+            "Drama"
+        ],
+        "actors": [
+            "Payman Maadi",
+            "Leila Hatami",
+            "Sareh Bayat"
+        ],
+        "directors": [
+            "Asghar Farhadi"
+        ],
+        "creators": [
+            "Asghar Farhadi"
+        ]
+    },
+    {
+        "title": "Bacheha-Ye aseman",
+        "url": "https://www.imdb.com/title/tt0118849/",
+        "date_created": "2004-07-26",
+        "year_released": null,
+        "genre": [
+            "Drama",
+            "Family",
+            "Sport"
+        ],
+        "actors": [
+            "Mohammad Amir Naji",
+            "Amir Farrokh Hashemian",
+            "Bahare Seddiqi"
+        ],
+        "directors": [
+            "Majid Majidi"
+        ],
+        "creators": [
+            "Majid Majidi"
+        ]
+    },
+    {
+        "title": "Akmareul boatda",
+        "url": "https://www.imdb.com/title/tt1588170/",
+        "date_created": "2010-11-27",
+        "year_released": "2011-04-29",
+        "genre": [
+            "Action",
+            "Crime",
+            "Thriller"
+        ],
+        "actors": [
+            "Lee Byung-hun",
+            "Choi Min-sik",
+            "Jeon Gook-hwan"
+        ],
+        "directors": [
+            "Kim Jee-woon"
+        ],
+        "creators": [
+            "Park Hoon-jung",
+            "Kim Jee-woon"
+        ]
+    },
+    {
+        "title": "Vozvrashchenie",
+        "url": "https://www.imdb.com/title/tt0376968/",
+        "date_created": "2004-09-12",
+        "year_released": "2004-06-25",
+        "genre": [
+            "Drama"
+        ],
+        "actors": [
+            "Vladimir Garin",
+            "Ivan Dobronravov",
+            "Konstantin Lavronenko"
+        ],
+        "directors": [
+            "Andrey Zvyagintsev"
+        ],
+        "creators": [
+            "Vladimir Moiseenko",
+            "Aleksandr Novototskiy-Vlasov"
+        ]
+    },
+    {
+        "title": "Salinui chueok",
+        "url": "https://www.imdb.com/title/tt0353969/",
+        "date_created": "2004-12-10",
+        "year_released": "2004-08-13",
+        "genre": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ],
+        "actors": [
+            "Song Kang-ho",
+            "Kim Sang-kyung",
+            "Kim Roe-ha"
+        ],
+        "directors": [
+            "Bong Joon Ho"
+        ],
+        "creators": [
+            "Bong Joon Ho",
+            "Kwang-rim Kim",
+            "Sung-bo Shim"
+        ]
+    },
+    {
+        "title": "Alien",
+        "url": "https://www.imdb.com/title/tt0078748/",
+        "date_created": "2020-01-16",
+        "year_released": "1979-09-06",
+        "genre": [
+            "Horror",
+            "Sci-Fi"
+        ],
+        "actors": [
+            "Sigourney Weaver",
+            "Tom Skerritt",
+            "John Hurt"
+        ],
+        "directors": [
+            "Ridley Scott"
+        ],
+        "creators": [
+            "Dan O&apos;Bannon",
+            "Ronald Shusett"
+        ]
+    },
+    {
+        "title": "Bom yeoreum gaeul gyeoul geurigo bom",
+        "url": "https://www.imdb.com/title/tt0374546/",
+        "date_created": "2004-09-18",
+        "year_released": "2004-05-14",
+        "genre": [
+            "Drama",
+            "Romance"
+        ],
+        "actors": [
+            "Kim Ki-duk",
+            "Oh Yeong-su",
+            "Jong-ho Kim"
+        ],
+        "directors": [
+            "Kim Ki-duk"
+        ],
+        "creators": [
+            "Kim Ki-duk"
+        ]
+    },
+    {
+        "title": "It&apos;s a Wonderful Life",
+        "url": "https://www.imdb.com/title/tt0038650/",
+        "date_created": "2007-01-27",
+        "year_released": "1947-01-07",
+        "genre": [
+            "Drama",
+            "Family",
+            "Fantasy"
+        ],
+        "actors": [
+            "James Stewart",
+            "Donna Reed",
+            "Lionel Barrymore"
+        ],
+        "directors": [
+            "Frank Capra"
+        ],
+        "creators": [
+            "Frances Goodrich",
+            "Albert Hackett",
+            "Frank Capra"
+        ]
+    },
+    {
+        "title": "Braveheart",
+        "url": "https://www.imdb.com/title/tt0112573/",
+        "date_created": "2005-09-13",
+        "year_released": "1995-09-08",
+        "genre": [
+            "Biography",
+            "Drama",
+            "War"
+        ],
+        "actors": [
+            "Mel Gibson",
+            "Sophie Marceau",
+            "Patrick McGoohan"
+        ],
+        "directors": [
+            "Mel Gibson"
+        ],
+        "creators": [
+            "Randall Wallace"
+        ]
+    },
+    {
+        "title": "Bin-jip",
+        "url": "https://www.imdb.com/title/tt0423866/",
+        "date_created": "2005-05-07",
+        "year_released": "2005-07-15",
+        "genre": [
+            "Crime",
+            "Drama",
+            "Romance"
+        ],
+        "actors": [
+            "Lee Seung-yun",
+            "Jae Hee",
+            "Hyuk-ho Kwon"
+        ],
+        "directors": [
+            "Kim Ki-duk"
+        ],
+        "creators": [
+            "Kim Ki-Duk",
+            "Kim Ki-duk"
+        ]
+    },
+    {
+        "title": "Titanic",
+        "url": "https://www.imdb.com/title/tt0120338/",
+        "date_created": "2002-06-03",
+        "year_released": "1998-01-23",
+        "genre": [
+            "Drama",
+            "Romance"
+        ],
+        "actors": [
+            "Leonardo DiCaprio",
+            "Kate Winslet",
+            "Billy Zane"
+        ],
+        "directors": [
+            "James Cameron"
+        ],
+        "creators": [
+            "James Cameron"
+        ]
+    },
+    {
+        "title": "The Pianist",
+        "url": "https://www.imdb.com/title/tt0253474/",
+        "date_created": "2003-04-28",
+        "year_released": "2003-01-24",
+        "genre": [
+            "Biography",
+            "Drama",
+            "Music"
+        ],
+        "actors": [
+            "Adrien Brody",
+            "Thomas Kretschmann",
+            "Frank Finlay"
+        ],
+        "directors": [
+            "Roman Polanski"
+        ],
+        "creators": [
+            "Ronald Harwood",
+            "Wladyslaw Szpilman"
+        ]
+    },
+    {
+        "title": "The Dark Knight",
+        "url": "https://www.imdb.com/title/tt0468569/",
+        "date_created": "2012-01-11",
+        "year_released": "2008-07-24",
+        "genre": [
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "actors": [
+            "Christian Bale",
+            "Heath Ledger",
+            "Aaron Eckhart"
+        ],
+        "directors": [
+            "Christopher Nolan"
+        ],
+        "creators": [
+            "Jonathan Nolan",
+            "Christopher Nolan",
+            "David S. Goyer"
+        ]
+    },
+    {
+        "title": "Cast Away",
+        "url": "https://www.imdb.com/title/tt0162222/",
+        "date_created": "2007-07-28",
+        "year_released": "2001-01-12",
+        "genre": [
+            "Adventure",
+            "Drama",
+            "Romance"
+        ],
+        "actors": [
+            "Tom Hanks",
+            "Helen Hunt",
+            "Paul Sanchez"
+        ],
+        "directors": [
+            "Robert Zemeckis"
+        ],
+        "creators": [
+            "William Broyles Jr."
+        ]
+    },
+    {
+        "title": "Gladiator",
+        "url": "https://www.imdb.com/title/tt0172495/",
+        "date_created": "2022-03-12",
+        "year_released": "2000-05-12",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Drama"
+        ],
+        "actors": [
+            "Russell Crowe",
+            "Joaquin Phoenix",
+            "Connie Nielsen"
+        ],
+        "directors": [
+            "Ridley Scott"
+        ],
+        "creators": [
+            "David Franzoni",
+            "John Logan",
+            "William Nicholson"
+        ]
+    },
+    {
+        "title": "Apocalypto",
+        "url": "https://www.imdb.com/title/tt0472043/",
+        "date_created": "2020-07-12",
+        "year_released": "2007-01-05",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Drama"
+        ],
+        "actors": [
+            "Gerardo Taracena",
+            "Raoul Max Trujillo",
+            "Dalia Hernández"
+        ],
+        "directors": [
+            "Mel Gibson"
+        ],
+        "creators": [
+            "Mel Gibson",
+            "Farhad Safinia"
+        ]
+    },
+    {
+        "title": "The Shining",
+        "url": "https://www.imdb.com/title/tt0081505/",
+        "date_created": "2001-07-24",
+        "year_released": "1980-10-05",
+        "genre": [
+            "Drama",
+            "Horror"
+        ],
+        "actors": [
+            "Jack Nicholson",
+            "Shelley Duvall",
+            "Danny Lloyd"
+        ],
+        "directors": [
+            "Stanley Kubrick"
+        ],
+        "creators": [
+            "Stephen King",
+            "Stanley Kubrick",
+            "Diane Johnson"
+        ]
+    },
+    {
+        "title": "Amores perros",
+        "url": "https://www.imdb.com/title/tt0245712/",
+        "date_created": "2001-04-23",
+        "year_released": "2001-05-18",
+        "genre": [
+            "Drama",
+            "Thriller"
+        ],
+        "actors": [
+            "Emilio Echevarría",
+            "Gael García Bernal",
+            "Goya Toledo"
+        ],
+        "directors": [
+            "Alejandro G. Iñárritu"
+        ],
+        "creators": [
+            "Guillermo Arriaga"
+        ]
+    },
+    {
+        "title": "Yeopgijeogin geunyeo",
+        "url": "https://www.imdb.com/title/tt0293715/",
+        "date_created": "2005-07-27",
+        "year_released": "2001-07-27",
+        "genre": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "actors": [
+            "Cha Tae-hyun",
+            "Jun Ji-hyun",
+            "In-mun Kim"
+        ],
+        "directors": [
+            "Jae-young Kwak"
+        ],
+        "creators": [
+            "Ho-sik Kim",
+            "Jae-young Kwak"
+        ]
+    },
+    {
+        "title": "Taken",
+        "url": "https://www.imdb.com/title/tt0936501/",
+        "date_created": "2012-01-26",
+        "year_released": "2008-09-26",
+        "genre": [
+            "Action",
+            "Crime",
+            "Thriller"
+        ],
+        "actors": [
+            "Liam Neeson",
+            "Maggie Grace",
+            "Famke Janssen"
+        ],
+        "directors": [
+            "Pierre Morel"
+        ],
+        "creators": [
+            "Luc Besson",
+            "Robert Mark Kamen"
+        ]
+    },
+    {
+        "title": "Hachi: A Dog&apos;s Tale",
+        "url": "https://www.imdb.com/title/tt1028532/",
+        "date_created": "2010-03-06",
+        "year_released": "2010-03-12",
+        "genre": [
+            "Biography",
+            "Drama",
+            "Family"
+        ],
+        "actors": [
+            "Richard Gere",
+            "Joan Allen",
+            "Cary-Hiroyuki Tagawa"
+        ],
+        "directors": [
+            "Lasse Hallström"
+        ],
+        "creators": [
+            "Stephen P. Lindsey",
+            "Kaneto Shindô"
+        ]
+    },
+    {
+        "title": "A Beautiful Mind",
+        "url": "https://www.imdb.com/title/tt0268978/",
+        "date_created": "2002-01-23",
+        "year_released": "2002-02-22",
+        "genre": [
+            "Biography",
+            "Drama",
+            "Mystery"
+        ],
+        "actors": [
+            "Russell Crowe",
+            "Ed Harris",
+            "Jennifer Connelly"
+        ],
+        "directors": [
+            "Ron Howard"
+        ],
+        "creators": [
+            "Akiva Goldsman",
+            "Sylvia Nasar"
+        ]
+    },
+    {
+        "title": "Requiem for a Dream",
+        "url": "https://www.imdb.com/title/tt0180093/",
+        "date_created": "2002-11-25",
+        "year_released": "2001-01-19",
+        "genre": [
+            "Drama"
+        ],
+        "actors": [
+            "Ellen Burstyn",
+            "Jared Leto",
+            "Jennifer Connelly"
+        ],
+        "directors": [
+            "Darren Aronofsky"
+        ],
+        "creators": [
+            "Hubert Selby Jr.",
+            "Darren Aronofsky"
+        ]
+    },
+    {
+        "title": "Central do Brasil",
+        "url": "https://www.imdb.com/title/tt0140888/",
+        "date_created": "1999-06-08",
+        "year_released": "1999-03-12",
+        "genre": [
+            "Drama"
+        ],
+        "actors": [
+            "Fernanda Montenegro",
+            "Vinícius de Oliveira",
+            "Marília Pêra"
+        ],
+        "directors": [
+            "Walter Salles"
+        ],
+        "creators": [
+            "Marcos Bernstein",
+            "João Emanuel Carneiro",
+            "Walter Salles"
+        ]
+    },
+    {
+        "title": "Intouchables",
+        "url": "https://www.imdb.com/title/tt1675434/",
+        "date_created": "2012-04-02",
+        "year_released": "2012-09-21",
+        "genre": [
+            "Comedy",
+            "Drama"
+        ],
+        "actors": [
+            "François Cluzet",
+            "Omar Sy",
+            "Anne Le Ny"
+        ],
+        "directors": [
+            "Olivier Nakache",
+            "Éric Toledano"
+        ],
+        "creators": [
+            "Olivier Nakache",
+            "Éric Toledano",
+            "Philippe Pozzo di Borgo"
+        ]
+    },
+    {
+        "title": "Shichinin no samurai",
+        "url": "https://www.imdb.com/title/tt0047478/",
+        "date_created": "2023-03-25",
+        "year_released": "1954-04-26",
+        "genre": [
+            "Action",
+            "Drama"
+        ],
+        "actors": [
+            "Toshirô Mifune",
+            "Takashi Shimura",
+            "Keiko Tsushima"
+        ],
+        "directors": [
+            "Akira Kurosawa"
+        ],
+        "creators": [
+            "Akira Kurosawa",
+            "Shinobu Hashimoto",
+            "Hideo Oguni"
+        ]
+    },
+    {
+        "title": "The Pursuit of Happyness",
+        "url": "https://www.imdb.com/title/tt0454921/",
+        "date_created": "2006-11-30",
+        "year_released": "2007-01-12",
+        "genre": [
+            "Biography",
+            "Drama"
+        ],
+        "actors": [
+            "Will Smith",
+            "Thandiwe Newton",
+            "Jaden Smith"
+        ],
+        "directors": [
+            "Gabriele Muccino"
+        ],
+        "creators": [
+            "Steve Conrad"
+        ]
+    },
+    {
+        "title": "The Shawshank Redemption",
+        "url": "https://www.imdb.com/title/tt0111161/",
+        "date_created": "1999-03-25",
+        "year_released": "1995-02-17",
+        "genre": [
+            "Drama"
+        ],
+        "actors": [
+            "Tim Robbins",
+            "Morgan Freeman",
+            "Bob Gunton"
+        ],
+        "directors": [
+            "Frank Darabont"
+        ],
+        "creators": [
+            "Stephen King",
+            "Frank Darabont"
+        ]
+    },
+    {
+        "title": "Il buono, il brutto, il cattivo",
+        "url": "https://www.imdb.com/title/tt0060196/",
+        "date_created": "2006-11-25",
+        "year_released": "1968-09-06",
+        "genre": [
+            "Adventure",
+            "Drama",
+            "Western"
+        ],
+        "actors": [
+            "Clint Eastwood",
+            "Eli Wallach",
+            "Lee Van Cleef"
+        ],
+        "directors": [
+            "Sergio Leone"
+        ],
+        "creators": [
+            "Luciano Vincenzoni",
+            "Sergio Leone",
+            "Agenore Incrocci"
+        ]
+    },
+    {
+        "title": "La vita è bella",
+        "url": "https://www.imdb.com/title/tt0118799/",
+        "date_created": "1999-02-26",
+        "year_released": "1999-02-12",
+        "genre": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "actors": [
+            "Roberto Benigni",
+            "Nicoletta Braschi",
+            "Giorgio Cantarini"
+        ],
+        "directors": [
+            "Roberto Benigni"
+        ],
+        "creators": [
+            "Vincenzo Cerami",
+            "Roberto Benigni"
+        ]
+    },
+    {
+        "title": "12 Angry Men",
+        "url": "https://www.imdb.com/title/tt0050083/",
+        "date_created": "2002-06-08",
+        "year_released": "1957-04-10",
+        "genre": [
+            "Crime",
+            "Drama"
+        ],
+        "actors": [
+            "Henry Fonda",
+            "Lee J. Cobb",
+            "Martin Balsam"
+        ],
+        "directors": [
+            "Sidney Lumet"
+        ],
+        "creators": [
+            "Reginald Rose"
+        ]
+    },
+    {
+        "title": "Schindler&apos;s List",
+        "url": "https://www.imdb.com/title/tt0108052/",
+        "date_created": "1998-09-29",
+        "year_released": "1994-02-18",
+        "genre": [
+            "Biography",
+            "Drama",
+            "History"
+        ],
+        "actors": [
+            "Liam Neeson",
+            "Ralph Fiennes",
+            "Ben Kingsley"
+        ],
+        "directors": [
+            "Steven Spielberg"
+        ],
+        "creators": [
+            "Thomas Keneally",
+            "Steven Zaillian"
+        ]
+    }
+]
