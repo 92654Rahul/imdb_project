@@ -1,22 +1,19 @@
-# scrapy-docker
-basic scrapy project running on docker container and connect to docker container of mongo
+# imdb_project
+root project directory
 
 ## Getting Started
 ### Step1: Building and running docker container by docker-compose
 ```
-cd /path/to/project
-docker-compose up -d
+cd /imdb_project/
+docker build -f DockerFile .
 ```
-### Step2: Enter scrapyapp container and running scrapy crawler
+### Step2: Enter app container and  scrapy crawler
 ```
-docker ps
-docker exec -it {scrapyapp_container_id} /bin/sh
-cd /home/src/ExampleCrawler
-scrapy crawl example
+docker images
+docker run -i -t {imageid} /bin/sh
+
+### Step3: go inside folder and exucute below commands
+cd /imdb_scraper
+scrapy crawl imdb_spider
 ```
 
-### Create new crawler in docker container
-```
-cd /home/src
-scrapy genspider example example.com
-```
