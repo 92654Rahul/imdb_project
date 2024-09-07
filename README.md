@@ -19,6 +19,8 @@ docker run -i -t {imageid} /bin/bash
 cd /imdb_scraper
 scrapy crawl imdb_spider
 ```
-### Step 4: output file will be generated inside output Folder
-
-
+### Step 4: output file will be generated inside imdb_scraper folder:
+```
+Example:- data_2024-09-07_15-17-17.json  
+          data_{%Y-%m-%d_HH-MM-SS}.json
+```
