@@ -2,7 +2,7 @@
 root project directory
 
 ## Getting Started
-### Step1: Building and running docker container by docker-compose
+### Step1: Building and running docker file
 ```
 cd /imdb_project/
 docker build -f DockerFile .
